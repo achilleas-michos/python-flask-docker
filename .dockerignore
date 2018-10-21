@@ -1,0 +1,3 @@
+.gitignore
+flask_server/tests
+Dockerfile
